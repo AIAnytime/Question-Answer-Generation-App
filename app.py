@@ -10,7 +10,7 @@ from langchain.chains.summarize import load_summarize_chain
 from langchain.chains import RetrievalQA
 import os 
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = " "
 
 # Set file path
 file_path = 'SDG.pdf'
